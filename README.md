@@ -25,6 +25,19 @@ Create a JFrame to serve as the game window .Create a JPanel to represent the ga
 
 User Interface:
 ---
-![gameboard](https://github.com/VaishaliMishra111/Snake-and-Ladder-game-/assets/134136768/e30e1aaa-b330-4f03-999e-7e727f3caf1d)
+![home](https://github.com/VaishaliMishra111/Snake-and-Ladder-game-/assets/134136768/63b96f2b-538b-4f22-86c9-2f265b8ae594)
+
+![optionpage](https://github.com/VaishaliMishra111/Snake-and-Ladder-game-/assets/134136768/43964d55-d7ce-4539-b81c-01ab5f7273b9)
+
+![startgame](https://github.com/VaishaliMishra111/Snake-and-Ladder-game-/assets/134136768/03673ab9-cf91-4853-a3eb-90a7ac265657)
+
+![gameboard](https://github.com/VaishaliMishra111/Snake-and-Ladder-game-/assets/134136768/4572f5ee-aae5-4f1e-9f67-9b3d6ed2966a)
+
+![winner](https://github.com/VaishaliMishra111/Snake-and-Ladder-game-/assets/134136768/7452facd-9e0c-4dbd-9fb6-c7604c7fb9e1)
+
+
+
+
+
 
                    
